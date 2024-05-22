@@ -15,9 +15,9 @@ The project encompasses several stages, which involve data exploration, data pre
 - Evaluation Metrics: Accuracy, Confusion Matrix, Precision, Recall
 
 ### Authors
-- Maria Benedita Marques
-- Lara Ribeiro
-- Mariana Pinho
+- [Maria Benedita Marques](https://github.com/beneditamarques23)
+- [Lara Ribeiro](https://github.com/lararib0)
+- [Mariana Pinho](https://github.com/marianaapinho)
 
 ## Requirements
 
