@@ -11,7 +11,7 @@ To accomplish this, the project will begin with data preprocessing, followed by 
 The project encompasses several stages, which involve data exploration, data preprocessing, division into training and testing sets, the selection and training of Machine Learning models like the Decision Tree Classifier, and evaluating model performance through accuracy assessment.
 
 ### Tools and algorithms used
-- Machine Learning Algorithms: Decision Tree Classifier, K-NN, Random Forest
+- Machine Learning Algorithms: Decision Tree Classifier, K-NN, Random Forest, Gradient Boosting Classifier
 - Evaluation Metrics: Accuracy, Confusion Matrix, Precision, Recall
 
 ### Authors
